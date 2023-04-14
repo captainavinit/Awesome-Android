@@ -24,10 +24,10 @@
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
 
 
-### Libraries
+## Libraries
 
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
 
-### License
+## License
 
 
