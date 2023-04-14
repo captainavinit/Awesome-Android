@@ -27,17 +27,9 @@
   - [Utilities](#utilities)
   - [Proxy and VPN Tools](#proxy-and-vpn-tools)
   - [Video](#video)
-- [Setup](#setup)
+- [Libraries](#setup)
   - [Windows 10 Setup](#windows-10-setup)
   - [Windows 8.1 Setup](#windows-81-setup)
-- [Security](#security)
-- [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
-    - [Windows](#windows)
-    - [IRC channels](#irc-channels)
-    - [Reddit](#reddit)
-- [Contribute](#contribute)
-- [Backers](#backers)
 - [License](#license)
 
 <!-- vim-markdown-toc -->
