@@ -33,6 +33,19 @@
 
 ## Libraries
 
+### Cardview
+
+- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+
+### Tabview
+
+- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+
+## License
+
+
 ```
 Copyright 2022 Saket Narayan.
 
@@ -48,17 +61,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-### Cardview
-
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-
-### Tabview
-
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-
-## License
-
-
