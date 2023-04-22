@@ -22,6 +22,10 @@
 ### Keyboard
 
 - [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) - This keyboard is especially useful if you use Termux.
+- [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages.
+- [FlorisBoard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+- [OpenBoard](https://github.com/openboard-team/openboard) - An open-source keyboard for Android.
+- [SimpleKeyboard](https://github.com/rkkr/simple-keyboard) - An open-source Adjustable keyboard height for more screen space.
 
 ### Hacking
 
