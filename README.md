@@ -25,8 +25,7 @@
 
 ### Hacking
 
-- [Termux](https://github.com/termux/termux-app) - About
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [Termux](https://github.com/termux/termux-app) - A terminal emulator application for Android OS extendible by variety of packages.
 
 ## Libraries
 
