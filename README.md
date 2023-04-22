@@ -45,8 +45,7 @@
 
 ### Tabview
 
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+- [Comming Soon](https://github.com/amitthecoder)
 
 ## Contributing
 
