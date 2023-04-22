@@ -14,6 +14,7 @@
   - [Tabview](#tabview)
   
 - [License](#license)
+- [Contributing](#contributing)
 
 <!-- vim-markdown-toc -->
 
@@ -42,6 +43,10 @@
 
 - [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+
+## Contributing
+
+Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure to follow [these rules](Contributing.md).
 
 ## License
 
