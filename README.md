@@ -36,8 +36,12 @@
 
 ### Cardview
 
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+- [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards) - ViewPager cards inspired by Duolingo.
+- [InfiniteCards](https://github.com/BakerJQ/Android-InfiniteCards) - An infinite card switching UI for Android, support custom animation.
+- [ElasticView](https://github.com/armcha/ElasticView) - Elastic view is a regular CardView, which can flex from user touches.
+- [Slice](https://github.com/mthli/Slice) - Android drawable that allows you custom round rect position.
+- [PageTransformerHelp](https://github.com/OCNYang/PageTransformerHelp) - A PageTransformer library for Android ViewPager,have some Banner styles.
+- [Skeleton](https://github.com/rasoulmiri/Skeleton) - Skeleton for Android.
 
 ### Tabview
 
