@@ -5,8 +5,8 @@
 <!-- vim-markdown-toc GFM -->
 
 - [Applications](#applications)
-  - [Tools](#tools)
-  - [Chating App](#chating-app)
+  - [Keyboard](#keyboard)
+  - [Hacking](#hacking)
 
 
 - [Libraries](#setup)
@@ -19,15 +19,14 @@
 
 ## Applications
 
-### Tools
+### Keyboard
 
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+- [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) - This keyboard is especially useful if you use Termux.
 
-### Chating App
+### Hacking
 
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
-- [Audio](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
+- [Termux](https://github.com/termux/termux-app) - About
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## Libraries
 
